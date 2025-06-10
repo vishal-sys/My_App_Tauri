@@ -27,7 +27,12 @@ function App() {
           <img src= "/YT.svg"className="logo react" alt="React logo" />
         </a> */}
       </div>
+
+      <div className="colo">
       <p>AI Photo Sharing & Event Experience App</p>
+      </div>
+        
+      
 
       <form
         className="row"
@@ -43,7 +48,11 @@ function App() {
         />
         <button type="submit">Namastey</button>
       </form>
+
+      <div className="colo">
       <p>{greetMsg}</p>
+      </div>
+      
     </main>
   );
 }

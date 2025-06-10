@@ -28,6 +28,7 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  text-decoration-color: #0f0f0f;
 }
 
 .logo {
@@ -50,6 +51,11 @@ a {
   font-weight: 500;
   color: #646cff;
   text-decoration: inherit;
+}
+
+.colo {
+  color: #850a47;
+  font-weight: bold;
 }
 
 a:hover {
